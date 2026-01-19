@@ -1,0 +1,7 @@
+.env
+vectorstores/
+*.faiss
+*.pkl
+__pycache__/
+docs/**/*.json
+docs/backup/
